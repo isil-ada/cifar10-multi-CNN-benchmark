@@ -1,4 +1,4 @@
-# YZM304 Derin Öğrenme — Proje 2: CNN ile Görüntü Sınıflandırma
+# YZM304 Derin Öğrenme — Proje 2: CNN ile Görüntü Sınıflandırma 
 
 **Ankara Üniversitesi Yapay Zeka ve Veri Mühendisliği Bölümü**  
 2025–2026 Bahar Dönemi | YZM304 Derin Öğrenme Dersi
