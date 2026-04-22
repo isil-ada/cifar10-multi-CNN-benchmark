@@ -100,6 +100,12 @@ Genel karşılaştırma: `model_comparison.png`, `all_models_val_acc.png`
 
 ---
 
+## Model 4 & 5 Hakkında Not
+
+Ödev gereksinimlerine göre, Model 4'te kullanılan özellik çıkarıcı CNN (Model 2) ilk üç modelden biri olduğundan, 5. model olarak ayrı bir tam CNN eğitimine gerek yoktur. Bu nedenle `notebook_05` yalnızca Model 4 (CNN+SVM) ile Model 5 (CNN+Random Forest) karşılaştırmasını içermekte; tam CNN karşılaştırması ise Model 2 sonuçları üzerinden yapılmaktadır.
+
+---
+
 ## Tartışma
 
 **Model 1 vs Model 2:** Batch normalizasyon ve Dropout eklenmesi genellikle 3–5 puanlık doğruluk artışı sağlamıştır. Model 2'nin validation kaybı Model 1'e kıyasla daha düzgün bir azalım eğrisi sergilemiş; bu durum Batch Norm'un eğitim stabilitesine katkısını doğrulamaktadır.
